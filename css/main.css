@@ -1,0 +1,54 @@
+/************************
+*          Global          *
+*************************/
+*{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #333;
+}
+h1, h2, h3, h4{
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+    font-weight: bold;
+}
+a{
+    color: #333;
+}
+a:hover{
+    color: #fdb700;
+}
+/************************
+*          Nav          *
+*************************/
+.navbar{
+    background-color: #ececec;
+    color: #333;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+
+}
+.subfooter{
+    padding: 40px 20px;
+    background-color: #ececec;
+}
+/************************
+*         Misc           *
+*************************/
+.section1{
+    padding: 75px 20px;
+}
+
+#gallery{
+    border: 1px dashed #218838;
+    border-radius: 10px;
+}
+.dz-error-message:nth-child(4) > span:nth-child(1) {
+    color: #fff !important;
+}
+.error-btn{
+    margin-bottom: 40px;
+}
+.test-link{
+    font-size: 18px;
+    font-weight: bold;
+}
